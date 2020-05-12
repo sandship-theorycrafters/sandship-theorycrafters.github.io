@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materials on Sandship Theorycrafters</title>
+    <link>https://sandship-theorycrafters.github.io/materials/</link>
+    <description>Recent content in Materials on Sandship Theorycrafters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 00:26:44 -0400</lastBuildDate>
+    
+	<atom:link href="https://sandship-theorycrafters.github.io/materials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,92 @@
+[
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/iron/",
+	"title": "Iron",
+	"tags": [],
+	"description": "",
+	"content": "Iron is the first material players have access to in the game, it also has some of the simplest builds. It lacks use towards the later game, but it’s always useful to have some on you for contracts. It is used in a variety of things, namely steel. Steel will have its own section however due to the sheer amount of things it can make.\nUsed in:\n Steel Iron rods Bolts Iron plates Wire Ammunition  "
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/iron/iron/",
+	"title": "Iron",
+	"tags": [],
+	"description": "",
+	"content": "Builds No Importers Iron (86.21) [86.31] {Moderate} “Ching”\nIntroducing our first major contributor, Ching! The above build is currently the best build for any basic material (except steel). Although the picture may show copper, simply set the synths to iron and you’ll have the same output.\nWith Importers Not applicable. There should be no reason to use importers here.\nBeginners Iron (50) [50] {Very High} “Ching”\nA very simple build for beginners. Costs 6750 credits to make from scratch\nLarger Than 12x12 Iron (91) [91] {Low} “Tangy”\nSo you might be wondering what’s up with the picture? The answer is that we don’t have a good picture as of right now. Multiply this build 5 times over and you’ll get the output provided on top. The above build was made by “Tangy”!\n"
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/iron/iron-plates/",
+	"title": "Iron Plates",
+	"tags": [],
+	"description": "",
+	"content": "Builds No Importers Iron Plates (40.01) [79.93] {Moderate} “Ching”\nThe first real build in this compendium. A very crammed build, but still effective. Grabbers are key here. The splitter on splitter design is a common trick us theorycrafters use. Basically the synthesizer can shoot stuff out at 30/s but belts can only carry 5/s. To make up for this, we use splitters on splitters, which cause 15/s to be sent out across the 4 points exit points of the splitters.\nWith Importers Work in progress\nBeginners Work in progress\nLarger Than 12x12 Work in progress\n"
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/iron/iron-rods/",
+	"title": "Iron Rods",
+	"tags": [],
+	"description": "",
+	"content": "Builds No Importers Iron Rods (63.11) [63.11] {High} “Ching”\nA rod producing build. Uses lots of grabbers and splitters. Interestingly enough, the synths weren’t split twice due to space constraints, but the grabbers helped balance this out (though not all the way)\nWith Importers Work in progress\nBeginners Work in progress\nLarger Than 12x12 Work in progress\n"
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/iron/wire/",
+	"title": "Wire",
+	"tags": [],
+	"description": "",
+	"content": "Builds No Importers Wire (19.98) [43.02] {High} “Patytseng”\nA wire build. You need to change all shapers to extruders for the listed output of wire. Made by Patytseng, who has an awesome spreadsheet you should check out.\nWith Importers Work in progress\nBeginners Work in progress\nLarger Than 12x12 Work in progress\n"
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/",
+	"title": "Materials",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 1 Materials The compendium is split into several different “sections” based on the base resource of each build. Recycler, Underwell and “everything” builds will get their own section. Each section will consist of the following:\n A general overview to the resource and its use The end product of the resource  Best build no importers for the end product Best build with importers for the end product Best build for newer players (wip right now) Best build that doesn’t fit in a 12x12 micro factory   Other builds and points of interests,  Note that step 2 will be repeated for all end products, every single one of them! This will make the list pretty long, so I recommend using the table of contents.\nI also want to say thank you to the theorycrafting sub-discord for helping me make this, along with all the awesome people who made these builds. Also the Rockbite cause they made this fun game\nAlso, if you (yes, you the reader) have a terrific design that is better than the ones listed, please dm me a picture of them, along with some stability info. (My discord username is SharkyTheWhale#0073)\n"
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/iron/bolts/",
+	"title": "Bolts",
+	"tags": [],
+	"description": "",
+	"content": "Builds No Importers Bolts (22.5) [43.02] {Very High} “Patytseng”\nChange all extruders to shapers to make get the listed output.\nWith Importers Work in progress\nBeginners Work in progress\nLarger Than 12x12 Work in progress\n"
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/materials/iron/ammunition/",
+	"title": "Ammunition",
+	"tags": [],
+	"description": "",
+	"content": "Builds No Importers Ammunition (9.08) [27.27] {High} “DarkMatterMatt”\nTo anyone who’s actually played the game, yes the ammo section is a bit of a joke. There is NO PURPOSE to ammo right now, it can only be used in the underwell but it must be made there, making factory-made ammunition worthless. But if you feel like memeing on reddit\u0026hellip;\nWith Importers Work in progress\nBeginners I’m pretty sure you’re not a beginner if you can make ammunition mate.\nLarger Than 12x12 Work in progress\n"
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/",
+	"title": "Sandship Theorycrafters",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/contributors/",
+	"title": "Contributors",
+	"tags": [],
+	"description": "",
+	"content": " SharkyTheWhale patytseng Ching DarkMatterMat Tangy omfgcookies  "
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/data/",
+	"title": "Data",
+	"tags": [],
+	"description": "",
+	"content": " .container { position: relative; width: 100%; overflow: hidden; padding-top: 56.25%; } .responsive-iframe { position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; border: none; }    "
+},
+{
+	"uri": "https://sandship-theorycrafters.github.io/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

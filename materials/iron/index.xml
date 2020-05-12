@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iron on Sandship Theorycrafters</title>
+    <link>https://sandship-theorycrafters.github.io/materials/iron/</link>
+    <description>Recent content in Iron on Sandship Theorycrafters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sandship-theorycrafters.github.io/materials/iron/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Iron</title>
+      <link>https://sandship-theorycrafters.github.io/materials/iron/iron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandship-theorycrafters.github.io/materials/iron/iron/</guid>
+      <description>Builds No Importers Iron (86.21) [86.31] {Moderate} “Ching”
+Introducing our first major contributor, Ching! The above build is currently the best build for any basic material (except steel). Although the picture may show copper, simply set the synths to iron and you’ll have the same output.
+With Importers Not applicable. There should be no reason to use importers here.
+Beginners Iron (50) [50] {Very High} “Ching”
+A very simple build for beginners.</description>
+    </item>
+    
+    <item>
+      <title>Iron Plates</title>
+      <link>https://sandship-theorycrafters.github.io/materials/iron/iron-plates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandship-theorycrafters.github.io/materials/iron/iron-plates/</guid>
+      <description>Builds No Importers Iron Plates (40.01) [79.93] {Moderate} “Ching”
+The first real build in this compendium. A very crammed build, but still effective. Grabbers are key here. The splitter on splitter design is a common trick us theorycrafters use. Basically the synthesizer can shoot stuff out at 30/s but belts can only carry 5/s. To make up for this, we use splitters on splitters, which cause 15/s to be sent out across the 4 points exit points of the splitters.</description>
+    </item>
+    
+    <item>
+      <title>Iron Rods</title>
+      <link>https://sandship-theorycrafters.github.io/materials/iron/iron-rods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandship-theorycrafters.github.io/materials/iron/iron-rods/</guid>
+      <description>Builds No Importers Iron Rods (63.11) [63.11] {High} “Ching”
+A rod producing build. Uses lots of grabbers and splitters. Interestingly enough, the synths weren’t split twice due to space constraints, but the grabbers helped balance this out (though not all the way)
+With Importers Work in progress
+Beginners Work in progress
+Larger Than 12x12 Work in progress</description>
+    </item>
+    
+    <item>
+      <title>Wire</title>
+      <link>https://sandship-theorycrafters.github.io/materials/iron/wire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandship-theorycrafters.github.io/materials/iron/wire/</guid>
+      <description>Builds No Importers Wire (19.98) [43.02] {High} “Patytseng”
+A wire build. You need to change all shapers to extruders for the listed output of wire. Made by Patytseng, who has an awesome spreadsheet you should check out.
+With Importers Work in progress
+Beginners Work in progress
+Larger Than 12x12 Work in progress</description>
+    </item>
+    
+    <item>
+      <title>Bolts</title>
+      <link>https://sandship-theorycrafters.github.io/materials/iron/bolts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandship-theorycrafters.github.io/materials/iron/bolts/</guid>
+      <description>Builds No Importers Bolts (22.5) [43.02] {Very High} “Patytseng”
+Change all extruders to shapers to make get the listed output.
+With Importers Work in progress
+Beginners Work in progress
+Larger Than 12x12 Work in progress</description>
+    </item>
+    
+    <item>
+      <title>Ammunition</title>
+      <link>https://sandship-theorycrafters.github.io/materials/iron/ammunition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandship-theorycrafters.github.io/materials/iron/ammunition/</guid>
+      <description>Builds No Importers Ammunition (9.08) [27.27] {High} “DarkMatterMatt”
+To anyone who’s actually played the game, yes the ammo section is a bit of a joke. There is NO PURPOSE to ammo right now, it can only be used in the underwell but it must be made there, making factory-made ammunition worthless. But if you feel like memeing on reddit&amp;hellip;
+With Importers Work in progress
+Beginners I’m pretty sure you’re not a beginner if you can make ammunition mate.</description>
+    </item>
+    
+  </channel>
+</rss>
